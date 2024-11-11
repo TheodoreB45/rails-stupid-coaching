@@ -1,0 +1,2 @@
+module StupidHelper
+end
